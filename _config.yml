@@ -1,11 +1,14 @@
+# Welcome to Jekyll!
 title: Neo Framework
-description: >
-    The PHP Framework For Web Peasants
+email: younis.bensalah@gmail.com
+description: The PHP Framework For Web Peasants.
 baseurl: ""
 url: "https://neo-framework.github.io"
-
 twitter_username: younishd
 github_username: neo-framework
-copyright: "2016-2017 YouniS Bensalah"
 
+# Build settings
 markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed

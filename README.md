@@ -1,3 +1,7 @@
 # neo-framework.github.io
 
-A Jekyll page for the Neo Framework project :deciduous_tree:
+The Jekyll-powered home of the Neo Framework documentation.
+
+## License
+
+[MIT](LICENSE)
